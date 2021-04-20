@@ -1,3 +1,2 @@
-# Text-Adventure-Game
-
-A text based game built using python code.
+BanderSnatch
+A text adventure game built using python code.

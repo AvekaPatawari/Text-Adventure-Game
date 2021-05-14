@@ -1,3 +1,5 @@
-BanderSnatch
+# Text Adventure Game
 
-A text adventure game built using python code.
+## _BanderSnatch_
+
+A text adventure game built using **python** code.
